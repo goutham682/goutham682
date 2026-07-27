@@ -62,3 +62,10 @@ I'm a passionate developer interested in building modern web applications and au
 - LinkedIn: (Add your LinkedIn URL here)
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham682&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=goutham682&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&theme=tokyonight)
