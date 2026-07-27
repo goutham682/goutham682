@@ -75,3 +75,15 @@ I'm a passionate developer interested in building modern web applications and au
 ![GitHub Streak](https://streak-stats.demolab.com?user=goutham682&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goutham682&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=goutham682&theme=tokyonight"/>
+</p>
