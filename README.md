@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Gouthamprabhu R
 
-<!--
-**goutham682/goutham682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | B.Tech IT Student
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in building modern web applications and automation projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech Information Technology
+- 🌱 Learning MERN Stack
+- 🤖 Exploring AI & Prompt Engineering
+- 💡 Interested in Full Stack Development
+- 📍 Tamil Nadu, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- Python
+- SQL
+- C
+
+### Frontend
+- HTML
+- CSS
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 LinkedIn Job Automation
+- 🔹 Smart Loom Flow
+- 🔹 Portfolio Website
+- 🔹 MERN Stack Projects
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/goutham682
+- LinkedIn: (Add your LinkedIn URL here)
+
+⭐ Thanks for visiting my profile!
