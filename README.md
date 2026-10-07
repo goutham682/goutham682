@@ -1,131 +1,123 @@
-<!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    CINEMATIC HERO                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A12,50:0B3D2E,100:00FF88&height=230&section=header&text=Gouthamprabhu%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18&descColor=00FF88"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020604,45:061A12,75:0B3D2E,100:00FF88&text=GOUTHAMPRABHU%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS&descAlignY=62&descSize=16&descColor=00FF88"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=%3E+Building+digital+experiences...;%3E+Turning+ideas+into+real+products...;%3E+React+%2B+Next.js+%2B+TypeScript;%3E+Exploring+AI+%26+automation;%3E+Always+learning.+Always+building." />
 
-<img src="https://komarev.com/ghpvc/?username=goutham682&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/github/followers/goutham682?label=FOLLOWERS&style=for-the-badge&color=00C853&labelColor=061A12"/>
+<a href="https://portfolio-website-blush-zeta-10.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+
+<a href="https://linkedin.com/in/gouthamprabhu-r-b11274291">
+<img src="https://img.shields.io/badge/LINKEDIN-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="https://github.com/goutham682">
+<img src="https://img.shields.io/badge/GITHUB-061A12?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=goutham682&label=PROFILE%20VIEWS&color=00FF88&labelColor=020604&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🟢 About Me
+# `01` — WHO AM I?
 
-```javascript
-const goutham = {
-    name: "Gouthamprabhu R",
-    role: "Frontend Developer",
-    education: "B.Tech Information Technology",
-    location: "Tamil Nadu, India",
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
-
-    database: [
-        "MongoDB",
-        "MySQL"
-    ],
-
-    interests: [
-        "Modern Web Development",
-        "AI Applications",
-        "Automation",
-        "UI/UX"
-    ],
-
-    currentlyLearning: [
-        "Advanced React",
-        "Next.js",
-        "TypeScript",
-        "AI Integration"
-    ],
-
-    goal: "Build useful products and grow as a professional developer 🚀"
-};
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   👋  Hey, I'm Gouthamprabhu.                             │
+│                                                            │
+│   🎓  B.Tech Information Technology                        │
+│   💻  Frontend Developer                                  │
+│   ⚛️   React / Next.js                                     │
+│   📘  TypeScript                                           │
+│   🤖  AI & Automation Explorer                             │
+│   📍  Tamil Nadu, India                                    │
+│                                                            │
+│   I build modern web experiences, experiment with AI,     │
+│   and turn ideas into practical applications.              │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🟩 What I Build
+# `02` — DEVELOPER TERMINAL
 
-<table>
-<tr>
+```bash
+┌──(goutham㉿developer)-[~/projects]
+└─$ whoami
 
-<td width="50%" align="center">
+Frontend Developer
 
-## 🎨 Modern UI
+┌──(goutham㉿developer)-[~/skills]
+└─$ cat stack.json
 
-Responsive and interactive interfaces using **React, Next.js & Tailwind CSS**.
+{
+  "frontend": ["React", "Next.js", "TypeScript"],
+  "styling": ["Tailwind CSS", "CSS"],
+  "backend": ["Node.js", "Express.js"],
+  "database": ["MongoDB", "MySQL"],
+  "languages": ["JavaScript", "Python", "Java", "C", "SQL"],
+  "tools": ["Git", "GitHub", "VS Code", "Postman"]
+}
 
-</td>
+┌──(goutham㉿developer)-[~/mindset]
+└─$ echo $MINDSET
 
-<td width="50%" align="center">
+"Build → Learn → Improve → Repeat"
 
-## 🤖 AI Applications
+┌──(goutham㉿developer)-[~/status]
+└─$ current_status
 
-Exploring practical AI-powered applications and integrations.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## ⚙️ Full-Stack Features
-
-APIs, authentication, databases and frontend integrations.
-
-</td>
-
-<td width="50%" align="center">
-
-## 🔧 Automation
-
-Building automation tools using Python, Selenium and APIs.
-
-</td>
-
-</tr>
-</table>
+🟢 OPEN TO OPPORTUNITIES
+```
 
 ---
 
-# 🛠️ Tech Stack
+# `03` — WHAT I DO
 
 <div align="center">
 
-### 🟢 Frontend
+| 🎨 FRONTEND | 🤖 AI | ⚙️ BACKEND | 🚀 AUTOMATION |
+|:---:|:---:|:---:|:---:|
+| React & Next.js | AI Applications | Node.js & APIs | Python & Selenium |
+| Responsive UI | AI Integration | Express.js | Workflow Automation |
+| Modern UX | Prompt Engineering | MongoDB / MySQL | API Automation |
+
+</div>
+
+---
+
+# `04` — TECH ARSENAL
+
+<div align="center">
+
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark"/>
 
-### 🟢 Backend & Database
+<br><br>
+
+### BACKEND & DATABASE
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
-### 🟢 Languages & Tools
+<br><br>
+
+### PROGRAMMING & TOOLS
 
 <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,postman&theme=dark"/>
 
@@ -133,230 +125,251 @@ Building automation tools using Python, Selenium and APIs.
 
 ---
 
-# 🚀 Featured Projects
+# `05` — SELECTED WORK
 
 <div align="center">
 
-<a href="https://smart-loom-flow.lovable.app/">
-<img src="https://img.shields.io/badge/🧵%20SMARTLOOM-AI%20TEXTILE%20PLATFORM-00C853?style=for-the-badge&logoColor=white"/>
-</a>
+## 🧵 SMARTLOOM
 
-<a href="https://reatehealth.lovable.app/">
-<img src="https://img.shields.io/badge/🤖%20RELATE%20HEALTH%20AI-WELLNESS%20PLATFORM-00C853?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-website-blush-zeta-10.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-LIVE%20WEBSITE-00C853?style=for-the-badge&logoColor=white"/>
-</a>
+### `AI-powered textile management platform`
 
 </div>
 
----
+SmartLoom is designed to help small-scale textile operations manage their everyday workflow from a single platform.
 
-## 🧵 SmartLoom
+**Built around:**
 
-> **AI-powered textile management platform designed for small-scale textile operations.**
+`Workforce` · `Production` · `Inventory` · `Orders` · `Reports` · `AI`
 
-### ✨ Features
-
-- 👥 Workforce & attendance management
-- 🏭 Production tracking
-- 🧵 Yarn inventory management
-- 📦 Order management
-- 📊 Reports & analytics
-- 🤖 AI-assisted insights
-
-**Technology**
+**Tech:**
 
 `React` `Node.js` `MySQL` `AI`
 
 <div align="center">
 
 <a href="https://smart-loom-flow.lovable.app/">
-<img src="https://img.shields.io/badge/🟢%20LIVE%20DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE%20SMARTLOOM-00FF88?style=for-the-badge&logoColor=000000"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## 🤖 Relate Health AI
+<div align="center">
 
-> **AI-powered digital wellness application focused on accessible and supportive user experiences.**
+## 🤖 RELATE HEALTH AI
 
-### ✨ Features
+### `AI-powered wellness experience`
 
-- 💬 AI conversational support
-- 🧠 Wellness guidance
-- 📊 Symptom tracking
-- 🌐 Responsive interface
-- 🤖 AI-assisted experience
+</div>
 
-**Technology**
+A web-based AI wellness application focused on creating a simple and supportive digital experience.
+
+**Built around:**
+
+`AI Conversation` · `Wellness Guidance` · `Tracking` · `Responsive UI`
+
+**Tech:**
 
 `React` `AI` `Web Technologies`
 
 <div align="center">
 
 <a href="https://reatehealth.lovable.app/">
-<img src="https://img.shields.io/badge/🟢%20LIVE%20DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00FF88?style=for-the-badge&logoColor=000000"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## 🎯 InterviewAI
+<div align="center">
 
-> **AI-powered interview preparation platform.**
+## 🎯 INTERVIEWAI
 
-### ✨ Features
+### `AI-powered interview preparation`
 
-- 🎯 Role-based interviews
-- 📝 Custom question count
-- ⚙️ Difficulty selection
-- 🔐 User authentication
-- 📊 Interview tracking
-- 🗄️ MongoDB integration
+</div>
 
-**Technology**
+A full-stack application designed to help users prepare for technical and HR interviews.
+
+**Features**
+
+- Role-based interview preparation
+- Difficulty selection
+- Custom question count
+- Authentication
+- Interview tracking
+- MongoDB integration
+
+**Tech:**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## 🔗 LinkedIn Automation
+<div align="center">
 
-> Python-based automation project exploring browser automation and automated workflows.
+## 🔗 LINKEDIN AUTOMATION
 
-**Technology**
+### `Python automation experiment`
+
+</div>
+
+A Python-based automation project exploring browser automation, API workflows and automated testing.
+
+**Tech:**
 
 `Python` `Selenium` `Requests` `Pytest`
 
-### 🧪 Testing
-
-`4 Tests Passed ✅`
+**Test Status:** `4 Tests Passed ✓`
 
 ---
 
-## 🌐 Personal Portfolio
-
-My personal portfolio showcasing my projects, skills and development journey.
-
-**Technology**
-
-`React` `Vite` `Tailwind CSS`
+# `06` — MY DIGITAL SPACE
 
 <div align="center">
 
 <a href="https://portfolio-website-blush-zeta-10.vercel.app/">
-<img src="https://img.shields.io/badge/🟢%20VISIT%20PORTFOLIO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00FF88?style=for-the-badge&logoColor=000000"/>
 </a>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=goutham682&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=061A12"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF88&text_color=FFFFFF&bg_color=061A12"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=goutham682&theme=dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF&background=061A12"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutham682&bg_color=061A12&color=FFFFFF&line=00FF88&point=00FF88&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/goutham682/goutham682/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Status |
-|---|---|
-| ⚛️ Master React | 🟢 Learning |
-| ▲ Learn Next.js | 🟢 Learning |
-| 📘 Improve TypeScript | 🟢 Learning |
-| 🎨 Build Better UI/UX | 🟢 Active |
-| 🤖 AI Integration | 🟢 Exploring |
-| 🚀 Build Production Projects | 🟢 Active |
-| 💼 Start Developer Career | 🟢 Goal |
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-00C853?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-00C853?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-00C853?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-00C853?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
----
-
-# 💼 Open To Opportunities
-
-<div align="center">
-
-### 🟢 Frontend Developer
-
-### 🟢 React Developer
-
-### 🟢 Next.js Developer
-
-### 🟢 Full Stack Developer
-
-### 🟢 Software Developer Internships
-
-### 🟢 Entry-Level Developer Roles
-
-</div>
-
----
-
-# 🔗 Connect With Me
-
-<div align="center">
-
 <a href="https://github.com/goutham682">
-<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-0B3D2E?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
 <a href="https://linkedin.com/in/gouthamprabhu-r-b11274291">
-<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-b
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+</div>
+
+---
+
+# `07` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=goutham682&show_icons=true&hide_border=true&bg_color=061A12&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&rank_icon=github&include_all_commits=true" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&hide_border=true&bg_color=061A12&title_color=00FF88&text_color=FFFFFF&langs_count=8" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=goutham682&hide_border=true&background=061A12&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+# `08` — CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutham682&bg_color=020604&color=FFFFFF&line=00FF88&point=00FF88&area=true&hide_border=true&custom_title=Goutham's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# `09` — CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/goutham682/goutham682/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+# `10` — CURRENTLY BUILDING
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│  ⚛️  React & Next.js                       │
+│  📘 TypeScript                             │
+│  🎨 Modern UI / UX                         │
+│  🔌 REST API Integration                   │
+│  🤖 AI-powered applications                │
+│  ⚙️  Automation                            │
+│  🚀 Production-ready projects              │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+---
+
+# `11` — 2026 MISSION
+
+<div align="center">
+
+**01** → Become a stronger Frontend Developer
+
+**02** → Build production-ready applications
+
+**03** → Improve React / Next.js / TypeScript
+
+**04** → Explore practical AI integrations
+
+**05** → Join a professional development team
+
+</div>
+
+---
+
+# `12` — OPEN TO WORK
+
+<div align="center">
+
+### 🟢 FRONTEND DEVELOPER
+
+`React` · `Next.js` · `JavaScript` · `TypeScript`
+
+### 🟢 FULL STACK DEVELOPER
+
+`Node.js` · `Express.js` · `MongoDB`
+
+### 🟢 SOFTWARE DEVELOPER
+
+`Entry-Level` · `Internship` · `Fresher`
+
+</div>
+
+---
+
+# `13` — LET'S CONNECT
+
+<div align="center">
+
+<a href="mailto:gouthamprabhurit2023@jkkn.ac.in">
+<img src="https://img.shields.io/badge/EMAIL-061A12?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+</a>
+
+<a href="https://linkedin.com/in/gouthamprabhu-r-b11274291">
+<img src="https://img.shields.io/badge/LINKEDIN-061A12?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="https://github.com/goutham682">
+<img src="https://img.shields.io/badge/GITHUB-061A12?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+
+<a href="https://portfolio-website-blush-zeta-10.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `BUILD SOMETHING WORTH REMEMBERING.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FF88,50:0B3D2E,100:020604&section=footer"/>
+
+</div>
