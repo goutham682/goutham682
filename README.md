@@ -1,26 +1,24 @@
-<!-- ======================= HERO ======================= -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Gouthamprabhu%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A12,50:0B3D2E,100:00FF88&height=230&section=header&text=Gouthamprabhu%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18&descColor=00FF88"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://github.com/goutham682">
-<img src="https://komarev.com/ghpvc/?username=goutham682&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=goutham682&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge"/>
 
-<a href="https://github.com/goutham682?tab=followers">
-<img src="https://img.shields.io/github/followers/goutham682?style=for-the-badge&logo=github&label=Followers" />
-</a>
+<img src="https://img.shields.io/github/followers/goutham682?label=FOLLOWERS&style=for-the-badge&color=00C853&labelColor=061A12"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🟢 About Me
 
 ```javascript
 const goutham = {
@@ -44,7 +42,7 @@ const goutham = {
         "Express.js"
     ],
 
-    databases: [
+    database: [
         "MongoDB",
         "MySQL"
     ],
@@ -63,69 +61,73 @@ const goutham = {
         "AI Integration"
     ],
 
-    goal: "Build useful products and become a strong software developer 🚀"
+    goal: "Build useful products and grow as a professional developer 🚀"
 };
 ```
 
 ---
 
-# ⚡ What I Build
+# 🟩 What I Build
 
 <table>
 <tr>
-<td width="50%">
 
-### 🎨 Modern Interfaces
+<td width="50%" align="center">
 
-Building responsive and interactive interfaces with **React, Next.js and Tailwind CSS**.
+## 🎨 Modern UI
+
+Responsive and interactive interfaces using **React, Next.js & Tailwind CSS**.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🤖 AI Applications
+
+Exploring practical AI-powered applications and integrations.
 
 </td>
 
-<td width="50%">
-
-### 🤖 AI Applications
-
-Exploring AI-powered applications and practical AI integrations.
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🔌 Full-Stack Features
+<td width="50%" align="center">
 
-Connecting frontend applications with APIs, authentication and databases.
+## ⚙️ Full-Stack Features
+
+APIs, authentication, databases and frontend integrations.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🔧 Automation
+
+Building automation tools using Python, Selenium and APIs.
 
 </td>
 
-<td width="50%">
-
-### ⚙️ Automation
-
-Building automation tools and experimenting with browser/API automation.
-
-</td>
 </tr>
 </table>
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+### 🟢 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark"/>
 
-### ⚙️ Backend & Database
+### 🟢 Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
-### 🧪 Languages & Tools
+### 🟢 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,postman&theme=dark"/>
 
 </div>
 
@@ -136,15 +138,15 @@ Building automation tools and experimenting with browser/API automation.
 <div align="center">
 
 <a href="https://smart-loom-flow.lovable.app/">
-<img src="https://img.shields.io/badge/🧵%20SmartLoom-AI%20Textile%20Platform-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧵%20SMARTLOOM-AI%20TEXTILE%20PLATFORM-00C853?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://reatehealth.lovable.app/">
-<img src="https://img.shields.io/badge/🤖%20Relate%20Health%20AI-AI%20Wellness-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20RELATE%20HEALTH%20AI-WELLNESS%20PLATFORM-00C853?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-website-blush-zeta-10.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-LIVE%20WEBSITE-00C853?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -153,23 +155,25 @@ Building automation tools and experimenting with browser/API automation.
 
 ## 🧵 SmartLoom
 
-> **AI-powered textile management platform for small-scale textile operations.**
+> **AI-powered textile management platform designed for small-scale textile operations.**
 
-**Key Features**
+### ✨ Features
 
 - 👥 Workforce & attendance management
 - 🏭 Production tracking
-- 🧵 Yarn inventory
+- 🧵 Yarn inventory management
 - 📦 Order management
 - 📊 Reports & analytics
 - 🤖 AI-assisted insights
 
-**Stack:** `React` `Node.js` `MySQL` `AI`
+**Technology**
+
+`React` `Node.js` `MySQL` `AI`
 
 <div align="center">
 
 <a href="https://smart-loom-flow.lovable.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20LIVE%20DEMO-00C853?style=for-the-badge"/>
 </a>
 
 </div>
@@ -178,9 +182,9 @@ Building automation tools and experimenting with browser/API automation.
 
 ## 🤖 Relate Health AI
 
-> AI-powered digital wellness application focused on accessible and supportive user experiences.
+> **AI-powered digital wellness application focused on accessible and supportive user experiences.**
 
-**Key Features**
+### ✨ Features
 
 - 💬 AI conversational support
 - 🧠 Wellness guidance
@@ -188,12 +192,14 @@ Building automation tools and experimenting with browser/API automation.
 - 🌐 Responsive interface
 - 🤖 AI-assisted experience
 
-**Stack:** `React` `AI` `Web Technologies`
+**Technology**
+
+`React` `AI` `Web Technologies`
 
 <div align="center">
 
 <a href="https://reatehealth.lovable.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20LIVE%20DEMO-00C853?style=for-the-badge"/>
 </a>
 
 </div>
@@ -204,14 +210,18 @@ Building automation tools and experimenting with browser/API automation.
 
 > **AI-powered interview preparation platform.**
 
+### ✨ Features
+
 - 🎯 Role-based interviews
 - 📝 Custom question count
 - ⚙️ Difficulty selection
-- 🔐 Authentication
+- 🔐 User authentication
 - 📊 Interview tracking
 - 🗄️ MongoDB integration
 
-**Stack:** `React` `Node.js` `Express.js` `MongoDB`
+**Technology**
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -219,9 +229,31 @@ Building automation tools and experimenting with browser/API automation.
 
 > Python-based automation project exploring browser automation and automated workflows.
 
-**Stack:** `Python` `Selenium` `Requests` `Pytest`
+**Technology**
 
-**Testing:** `4 Tests Passed ✅`
+`Python` `Selenium` `Requests` `Pytest`
+
+### 🧪 Testing
+
+`4 Tests Passed ✅`
+
+---
+
+## 🌐 Personal Portfolio
+
+My personal portfolio showcasing my projects, skills and development journey.
+
+**Technology**
+
+`React` `Vite` `Tailwind CSS`
+
+<div align="center">
+
+<a href="https://portfolio-website-blush-zeta-10.vercel.app/">
+<img src="https://img.shields.io/badge/🟢%20VISIT%20PORTFOLIO-00C853?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
@@ -229,9 +261,9 @@ Building automation tools and experimenting with browser/API automation.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=goutham682&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=goutham682&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=061A12"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham682&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF88&text_color=FFFFFF&bg_color=061A12"/>
 
 </div>
 
@@ -239,27 +271,27 @@ Building automation tools and experimenting with browser/API automation.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=goutham682&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=goutham682&theme=dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF&background=061A12"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/goutham682/goutham682/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutham682&bg_color=061A12&color=FFFFFF&line=00FF88&point=00FF88&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutham682&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/goutham682/goutham682/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -267,23 +299,19 @@ Building automation tools and experimenting with browser/API automation.
 
 # 🎯 2026 Goals
 
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  ⚛️  Master React & Next.js                      │
-│                                                  │
-│  📘 Improve TypeScript                           │
-│                                                  │
-│  🎨 Build better UI/UX                           │
-│                                                  │
-│  🤖 Integrate AI into real applications          │
-│                                                  │
-│  🚀 Build production-ready projects              │
-│                                                  │
-│  💼 Start my professional developer career       │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Goal | Status |
+|---|---|
+| ⚛️ Master React | 🟢 Learning |
+| ▲ Learn Next.js | 🟢 Learning |
+| 📘 Improve TypeScript | 🟢 Learning |
+| 🎨 Build Better UI/UX | 🟢 Active |
+| 🤖 AI Integration | 🟢 Exploring |
+| 🚀 Build Production Projects | 🟢 Active |
+| 💼 Start Developer Career | 🟢 Goal |
+
+</div>
 
 ---
 
@@ -291,7 +319,12 @@ Building automation tools and experimenting with browser/API automation.
 
 <div align="center">
 
-`React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Node.js` • `REST APIs` • `AI Integration`
+<img src="https://img.shields.io/badge/React-00C853?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-00C853?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-00C853?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-00C853?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
@@ -299,46 +332,31 @@ Building automation tools and experimenting with browser/API automation.
 
 # 💼 Open To Opportunities
 
-I'm currently interested in:
+<div align="center">
 
-**Frontend Developer • React Developer • Next.js Developer • Full Stack Developer • Software Developer Internships • Entry-Level Developer Roles**
+### 🟢 Frontend Developer
+
+### 🟢 React Developer
+
+### 🟢 Next.js Developer
+
+### 🟢 Full Stack Developer
+
+### 🟢 Software Developer Internships
+
+### 🟢 Entry-Level Developer Roles
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🔗 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/goutham682">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/gouthamprabhu-r-b11274291">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-website-blush-zeta-10.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-📧 **gouthamprabhurit2023@jkkn.ac.in**
-
-</div>
-
----
-
-# 💭 Developer Mindset
-
-<div align="center">
-
-### `"Build. Learn. Improve. Repeat."`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-</div>
+<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-b
